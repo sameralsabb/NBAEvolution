@@ -20,3 +20,11 @@ Data was acquired from various websites such as:
 Data was scraped using Beautiful Soup and also read into the Python file from JSON, HTML and CSV files.
 
 ## What rule changes have influenced the NBA?
+
+We examined three rule changes that may have influenced how the game has changed since the start of the NBA?
+
+* Introduction of the 24-Second Shot Clock
+* Introduction of the 3-Point Line
+* Defensive 3-Second Violation
+
+##
