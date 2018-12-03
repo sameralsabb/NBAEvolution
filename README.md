@@ -1,4 +1,4 @@
-# NBAHeights
+# Analysis of NBA Evolution
 
 This project was done to see the evolution of the NBA since its inception in 1946. There were four questions that were asked in order to find out how the NBA has evolved:
 
@@ -27,4 +27,13 @@ We examined three rule changes that may have influenced how the game has changed
 * Introduction of the 3-Point Line
 * Defensive 3-Second Violation
 
-##
+## How have NBA Players Physically Evolved since the Inception of the League?
+
+We recorded various measurements of NBA Players from the inception of the league, and these measurements were used to determine if there is a correlation between average measurements and team success, while also seeing the growth of average measurements of each position throughout the years.
+
+## How has the Evolution of the Player Body Measurements and NBA Rule Changes impacted who wins the MVP?
+
+Using the data and trends that we found from the NBA Rule Changes and Player Body Measurements, we broke down the positions of MVP winners by position, how many points, rebounds and assists MVP's are registering, and MVP 3-point percentage.
+
+## Does Team Performance Change based on Cap Utilized?
+
