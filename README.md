@@ -37,3 +37,4 @@ Using the data and trends that we found from the NBA Rule Changes and Player Bod
 
 ## Does Team Performance Change based on Cap Utilized?
 
+After gathering the data for salary cap utilization across all 30 NBA teams, we graphed the relationship between team success and percentage of cap used across the past three NBA seasons.
